@@ -1,0 +1,16 @@
+# Virtual environments
+venv/
+
+# Dataset and audio/image files
+data/
+spectrograms/
+*.wav
+*.png
+
+# Compiled Python files
+__pycache__/
+*.pyc
+
+# Model weights
+*.pt
+*.pth
